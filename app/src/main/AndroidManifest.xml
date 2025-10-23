@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Permisos para acceso a Internet (para cargar imágenes y APIs futuras) -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCartasPokemon"
+        android:usesCleartextTraffic="true">
+
+        <!-- Actividad Principal -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCartasPokemon">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Actividad de Detalle de Carta -->
+        <activity
+            android:name=".CardDetailActivity"
+            android:exported="false"
+            android:label="@string/card_detail"
+            android:parentActivityName=".MainActivity" />
+
+        <!-- Actividad para Agregar Carta -->
+        <activity
+            android:name=".AddCardActivity"
+            android:exported="false"
+            android:label="@string/add_card"
+            android:parentActivityName=".MainActivity"
+            android:windowSoftInputMode="adjustResize" />
+    </application>
+
+</manifest>

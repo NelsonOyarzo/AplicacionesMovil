@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Charizard",
+    "type": "Fuego",
+    "quality": "Mint",
+    "price": 450.00,
+    "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png",
+    "description": "Charizard es uno de los Pokémon más icónicos. Esta carta de primera edición es extremadamente valiosa entre coleccionistas."
+  },
+  {
+    "id": "2",
+    "name": "Blastoise",
+    "type": "Agua",
+    "quality": "Near Mint",
+    "price": 280.50,
+    "imageUrl": "https://images.pokemontcg.io/base1/2_hires.png",
+    "description": "Blastoise Base Set, una de las cartas más buscadas de la primera generación."
+  },
+  {
+    "id": "3",
+    "name": "Venusaur",
+    "type": "Planta",
+    "quality": "Excellent",
+    "price": 195.99,
+    "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png",
+    "description": "Venusaur completa el trío de iniciales de Kanto. Carta holográfica en excelente estado."
+  },
+  {
+    "id": "4",
+    "name": "Pikachu",
+    "type": "Eléctrico",
+    "quality": "Mint",
+    "price": 125.00,
+    "imageUrl": "https://images.pokemontcg.io/base1/58_hires.png",
+    "description": "El Pokémon más famoso del mundo. Esta carta amarilla es un clásico imprescindible."
+  },
+  {
+    "id": "5",
+    "name": "Mewtwo",
+    "type": "Psíquico",
+    "quality": "Near Mint",
+    "price": 380.00,
+    "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png",
+    "description": "El legendario Pokémon creado genéticamente. Holográfico de primera edición."
+  },
+  {
+    "id": "6",
+    "name": "Alakazam",
+    "type": "Psíquico",
+    "quality": "Good",
+    "price": 85.50,
+    "imageUrl": "https://images.pokemontcg.io/base1/1_hires.png",
+    "description": "Alakazam con su gran poder psíquico. Carta base set con ligero desgaste."
+  }
+]

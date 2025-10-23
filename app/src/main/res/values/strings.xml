@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppCartasPokemon</string>
+    <string name="add_card">Agregar Carta</string>
+    <string name="card_detail">Detalle de Carta</string>
+    <string name="card_image">Imagen de la carta</string>
+    <string name="description">Descripción:</string>
+    <string name="copy_url">Copiar URL</string>
+    <string name="share_card">Compartir</string>
+    <string name="card_name">Nombre de la carta</string>
+    <string name="card_type">Tipo de Pokémon</string>
+    <string name="card_quality">Calidad de la carta</string>
+    <string name="card_price">Precio (USD)</string>
+    <string name="image_url_optional">URL de imagen (opcional)</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save_card">Guardar</string>
+    <string name="search">Buscar</string>
+</resources>
