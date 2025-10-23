@@ -22,5 +22,3 @@ Aplicación Android para gestionar y visualizar tu colección de cartas coleccio
 - **minSdkVersion**: 21 (Android 5.0 Lollipop)
 - **targetSdkVersion**: 34 (Android 14)
 - **Gradle**: 8.1.0
-
-... (archivo README completo incluido originalmente)
